@@ -6,6 +6,5 @@ Ethan Huang
 2. "Max message length" feature is something that can be unit tested because it is an individual part of the code that can be tested without effect on the other parts.
 
 Links to sites:\
-https://ezh247467.github.io/Lab5_Starter_CSE110/ \
-[expose.html](expose.html)\
-[explore.html](explore.html)
+[expose.html](https://ezh247467.github.io/Lab5_Starter_CSE110/expose.html)\
+[explore.html](https://ezh247467.github.io/Lab5_Starter_CSE110/explore.html)
